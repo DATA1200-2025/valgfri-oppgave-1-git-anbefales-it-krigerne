@@ -19,3 +19,9 @@ h1 {
 h2 {color: rgb(0, 255, 247);
     font-family: cursive;
 }
+
+img {
+
+display: block;
+margin-left: auto;
+}
