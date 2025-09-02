@@ -8,13 +8,14 @@ body {
 
 p {
   color: white;
-  font-family: 'Franklin Gothic Medium', 
-  ;
+  font-family: 'Franklin Gothic Medium';
 }
+
 h1 {
   color: yellowgreen;
-  text-align: center;
   font-size: 500%;
 }
+
 h2 {color: rgb(0, 255, 247);
+    font-family: fantasy;
 }
