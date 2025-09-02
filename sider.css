@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(241, 26, 180);
+  
+  background-clip: src="Bacground.gif" ;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
