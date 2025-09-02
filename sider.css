@@ -4,10 +4,13 @@ body {
   margin: 0;
   padding: 20px;
   text-align: center;
+
+    background-image: url("Bacground.gif");
+    background-size: cover;
 }
 
 p {
-  color: white;
+  color: red;
   font-family: 'Franklin Gothic Medium';
 }
 
